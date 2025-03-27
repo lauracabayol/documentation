@@ -1,0 +1,4 @@
+To create a new DBT seed:
+1. Load the file to the seeds folder
+2. Add file definitions to the seeds.yml (columns and table)
+3. Run dbt seeds
